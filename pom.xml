@@ -34,17 +34,17 @@
   <repositories>
      <repository>
        <id>nttdataGROrepo</id>
-       <url>http://35.237.75.81:3030/nexus/content/groups/nttdataGROrepo</url>
+       <url>http://35.237.233.162:3030/nexus/content/groups/nttdataGROrepo/</url>
      </repository>
   </repositories>
  <distributionManagement>
    <snapshotRepository>
      <id>nttdatasnaprepo</id>
-     <url>http://35.237.75.81:3030/nexus/content/repositories/nttdatasnaprepo</url>
+     <url>http://35.237.233.162:3030/nexus/content/repositories/nttdatasnaprepo/</url>
    </snapshotRepository>
   <repository>
      <id>nttdataRELrepo</id>
-     <url>http://35.237.75.81:3030/nexus/content/repositories/nttdataRElrepo</url>
+     <url>http://35.237.233.162:3030/nexus/content/repositories/nttdataRElrepo/</url>
   </repository>
  </distributionManagement>
 </project>
